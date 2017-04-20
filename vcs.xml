@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/life0fun/wifi-direct-chat" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Telerik-Verified-Plugins/Spinner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Github_Repository" />
