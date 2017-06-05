@@ -4,9 +4,10 @@
       <mapping pattern="earnredeemtab" type="CLASS" />
       <mapping pattern="values-hi" type="DTD" />
       <mapping pattern="assets" type="HTML" />
-      <mapping pattern="main_layout" type="PLAIN_TEXT" />
-      <mapping pattern="layout" type="PLAIN_TEXT" />
       <mapping pattern="Layout" type="PLAIN_TEXT" />
+      <mapping pattern="font" type="PLAIN_TEXT" />
+      <mapping pattern="layout" type="PLAIN_TEXT" />
+      <mapping pattern="main_layout" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping pattern="song" type="Properties" />
