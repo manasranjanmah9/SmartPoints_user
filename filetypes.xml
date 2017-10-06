@@ -10,6 +10,7 @@
       <mapping pattern="main_layout" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping pattern="song" type="Properties" />
       <mapping pattern="values-es" type="XML" />
       <mapping pattern="a" type="XML" />
